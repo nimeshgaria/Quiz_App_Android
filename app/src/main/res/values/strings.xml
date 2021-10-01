@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">True Citizen</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="prev_button_text">Prev</string>
+    <string name="next_button_text">Next</string>
+    <string name="placeholder">Question goes here</string>
+    <string name="image_description">A droid icon image</string>
+    <string name="question_baseball"> Baseball originated in Australia.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_khalsa">The Khalsa was born in 1699.</string>
+    <string name="question_polo"> Polo was originated in Assam.</string>
+
+</resources>
