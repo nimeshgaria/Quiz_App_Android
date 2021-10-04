@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
     private int currentQuestionIndex = 0;
 
-
+    //added a comment on line 16
     private final Question[] questionBank = new Question[] {
             //create/instantiate question objects
             new Question(R.string.question_polo, false), //correct: 27
